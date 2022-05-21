@@ -20,8 +20,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://kdfresh.in">
-    <img src="https://github.com/ankit-v2-1/Compilely/blob/dev/assets/logo-.png" alt="Logo" width="304" height="100">
+  <a href="https://github.com/ankit-v2-1/Compilely">
+    <img src="https://github.com/ankit-v2-1/Compilely/blob/dev/assets/logo.png" alt="Logo" width="304" height="100">
   </a>
 
   <h3 align="center">Compilely</h3>
@@ -43,10 +43,64 @@
 
 
 
+## Installation
+To install **Compilely**, run these commands:
+
+### Manual
+```
+git clone https://github.com/ankit-v2-1/Compilely
+cd Compilely
+make
+sudo make install
+
+To uninstall
+sudo make uninstall
+```
+Install directoy: ``/usr/local/bin/``
+
+## Usage
+Make sure that file exits in current directory.
+
+```
+To run cpp program:
+cplus [FILENAME]
+
+Examples: cplus test.cpp
+
+```
+```
+To run c program:
+cplus [FILENAME]
+
+Examples: c test.c
+
+```
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/ankit-v2-1/Compilely/issues) for a list of proposed features (and known issues).
 
 
 
+<!-- CONTRIBUTING -->
+## Contributing
 
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
