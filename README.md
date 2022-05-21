@@ -66,14 +66,12 @@ To run cpp program:
 cplus [FILENAME]
 
 Examples: cplus test.cpp
-
 ```
 ```
 To run c program:
-cplus [FILENAME]
+c [FILENAME]
 
 Examples: c test.c
-
 ```
 
 
