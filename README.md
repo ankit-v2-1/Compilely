@@ -21,7 +21,7 @@
 <br />
 <p align="center">
   <a href="https://kdfresh.in">
-    <img src="https://github.com/ankit-v2-1/Compilely/blob/dev/assets/logo.png" alt="Logo" width="304" height="100">
+    <img src="https://github.com/ankit-v2-1/Compilely/blob/dev/assets/logo-.png" alt="Logo" width="304" height="100">
   </a>
 
   <h3 align="center">Compilely</h3>
