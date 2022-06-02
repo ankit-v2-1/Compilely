@@ -48,13 +48,13 @@ To install **Compilely**, run these commands:
 
 ### Manual
 ```
-git clone https://github.com/ankit-v2-1/Compilely
-cd Compilely
-make
-sudo make install
+$ git clone https://github.com/ankit-v2-1/Compilely
+$ cd Compilely
+$ make
+$ sudo make install
 
 To uninstall
-sudo make uninstall
+$ sudo make uninstall
 ```
 Install directoy: ``/usr/local/bin/``
 
@@ -63,15 +63,15 @@ Make sure that file exits in current directory.
 
 ```
 To run cpp program:
-cplus [FILENAME]
+$ cplus [FILENAME]
 
-Examples: cplus test.cpp
+Examples: $ cplus test.cpp
 ```
 ```
 To run c program:
-c [FILENAME]
+$ c [FILENAME]
 
-Examples: c test.c
+Examples: $ c test.c
 ```
 
 
